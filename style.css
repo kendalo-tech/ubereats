@@ -1,0 +1,52 @@
+body{
+    background:url("https://d3i4yxtzktqr9n.cloudfront.net/web-eats-v2/9b21aa66b4922ae2.png") no-repeat;
+    background-size: 1950px;
+
+}
+
+#box{
+    font-size: 18pt;
+}
+
+#stripe{
+    margin-top: -30px;
+    margin-left: -40px;
+}
+
+#logo{
+    font-size: 40px;
+    margin-top: -40px;
+    margin-left: 20px;
+}
+
+
+.my-icon{
+    font-size: 30px;
+}
+
+h1{
+    font-size: 50px;
+    color:black;
+}
+p{
+    color:black;
+}
+
+a:link{
+    color:black;
+}
+
+#mybutton{
+    font-size: 20px;
+}
+
+.move-down{
+    margin-top: 230px;
+}
+
+
+
+
+
+
+
